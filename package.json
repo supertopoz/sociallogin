@@ -5,7 +5,7 @@
   "dependencies": {
     "jquery": "^3.2.1",
     "react": "^15.4.2",
-    "react-dom": "^15.4.2",
+    "react-dom": "^16.0.1",
     "react-reorder": "^3.0.0-alpha.0",
     "react-router": "^2.8.1"
   },
