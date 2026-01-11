@@ -7,7 +7,7 @@
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
     "react-reorder": "^3.0.0-alpha.0",
-    "react-router": "^2.8.1"
+    "react-router": "^6.30.2"
   },
   "devDependencies": {
     "react-scripts": "0.9.5"
